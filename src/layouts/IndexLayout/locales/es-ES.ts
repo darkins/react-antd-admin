@@ -1,0 +1,35 @@
+export default {
+  'index-layout.topmenu.userinfo': 'Profile',
+  'index-layout.topmenu.logout': 'Logout',
+
+  'index-layout.menu.home': 'Home',
+  'index-layout.menu.home.dashboard': 'Dashboard',
+
+  'index-layout.menu.reliefs': 'Reliefs',
+  'index-layout.menu.reliefs.brian': 'Hurricane Brian',
+  'index-layout.menu.reliefs.brian.summary': 'Summary',
+  'index-layout.menu.reliefs.brian.beneficiaries': 'Beneficiaries',
+  'index-layout.menu.reliefs.brian.assets': 'Assets',
+  'index-layout.menu.reliefs.brian.disbursements': 'Disbursements',
+  'index-layout.menu.reliefs.brian.disbursements.table': 'Query list',
+  'index-layout.menu.reliefs.brian.disbursements.pro-table': 'ProTable',
+  'index-layout.menu.reliefs.form': 'Form page',
+  'index-layout.menu.reliefs.form.basic': 'Basis Form',
+  'index-layout.menu.reliefs.form.complex': 'Advanced Form',
+  'index-layout.menu.reliefs.detail': 'Details page',
+  'index-layout.menu.reliefs.detail.basic': 'Basic details',
+  'index-layout.menu.reliefs.detail.module': 'Module details',
+  'index-layout.menu.reliefs.detail.table': 'Table details',
+
+  'index-layout.menu.reports': 'Reports',
+  'index-layout.menu.reports.hurricanes': 'Hurricanes',
+  'index-layout.menu.reports.hurricanes.john': 'John',
+  'index-layout.menu.reports.hurricanes.paul': 'Paul',
+  'index-layout.menu.reports.hurricanes.george': 'George',
+  'index-layout.menu.reports.hurricanes.ringo': 'Ringo',
+
+  'index-layout.menu.settings': 'Settings',
+  'index-layout.menu.settings.all': 'All users have permissions',
+  'index-layout.menu.settings.user': 'Users have permission',
+  'index-layout.menu.settings.test': 'Tests have permission',
+};
