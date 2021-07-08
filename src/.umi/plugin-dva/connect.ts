@@ -6,20 +6,20 @@ import { EffectsCommandMap, SubscriptionAPI } from 'dva';
 import { match } from 'react-router-dom';
 import { Location, LocationState, History } from 'history';
 
-export * from 'C:/work/Aid-Tech/te2-prototype/src/models/global';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/models/user';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/home/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/assets/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/beneficiaries/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/disbursements/table/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/summary/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/detail/basic/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/detail/module/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/detail/table/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/form/basic/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/form/complex/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/user/login/model';
-export * from 'C:/work/Aid-Tech/te2-prototype/src/pages/user/register/model';
+export * from 'C:/work/repos/react-antd-admin/src/models/global';
+export * from 'C:/work/repos/react-antd-admin/src/models/user';
+export * from 'C:/work/repos/react-antd-admin/src/pages/home/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/assets/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/beneficiaries/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/disbursements/table/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/summary/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/detail/basic/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/detail/module/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/detail/table/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/form/basic/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/reliefs/form/complex/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/user/login/model';
+export * from 'C:/work/repos/react-antd-admin/src/pages/user/register/model';
 
 export interface Action<T = any> {
   type: T

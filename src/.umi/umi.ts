@@ -4,8 +4,8 @@ import '@@/core/devScripts';
 import { plugin } from './core/plugin';
 import './core/pluginRegister';
 import { createHistory } from './core/history';
-import { ApplyPluginsType } from 'C:/work/Aid-Tech/te2-prototype/node_modules/@umijs/runtime';
-import { renderClient } from 'C:/work/Aid-Tech/te2-prototype/node_modules/@umijs/renderer-react/dist/index.js';
+import { ApplyPluginsType } from 'C:/work/repos/react-antd-admin/node_modules/@umijs/runtime';
+import { renderClient } from 'C:/work/repos/react-antd-admin/node_modules/@umijs/renderer-react/dist/index.js';
 import { getRoutes } from './core/routes';
 
 

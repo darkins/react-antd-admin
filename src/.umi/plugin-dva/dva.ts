@@ -3,22 +3,22 @@ import { Component } from 'react';
 import { ApplyPluginsType } from 'umi';
 import dva from 'dva';
 // @ts-ignore
-import createLoading from 'C:/work/Aid-Tech/te2-prototype/node_modules/dva-loading/dist/index.esm.js';
+import createLoading from 'C:/work/repos/react-antd-admin/node_modules/dva-loading/dist/index.esm.js';
 import { plugin, history } from '../core/umiExports';
-import ModelGlobal0 from 'C:/work/Aid-Tech/te2-prototype/src/models/global.ts';
-import ModelUser1 from 'C:/work/Aid-Tech/te2-prototype/src/models/user.ts';
-import ModelModel2 from 'C:/work/Aid-Tech/te2-prototype/src/pages/home/model.ts';
-import ModelModel3 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/assets/model.ts';
-import ModelModel4 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/beneficiaries/model.ts';
-import ModelModel5 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/disbursements/table/model.ts';
-import ModelModel6 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/brian/summary/model.ts';
-import ModelModel7 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/detail/basic/model.ts';
-import ModelModel8 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/detail/module/model.ts';
-import ModelModel9 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/detail/table/model.ts';
-import ModelModel10 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/form/basic/model.ts';
-import ModelModel11 from 'C:/work/Aid-Tech/te2-prototype/src/pages/reliefs/form/complex/model.ts';
-import ModelModel12 from 'C:/work/Aid-Tech/te2-prototype/src/pages/user/login/model.ts';
-import ModelModel13 from 'C:/work/Aid-Tech/te2-prototype/src/pages/user/register/model.ts';
+import ModelGlobal0 from 'C:/work/repos/react-antd-admin/src/models/global.ts';
+import ModelUser1 from 'C:/work/repos/react-antd-admin/src/models/user.ts';
+import ModelModel2 from 'C:/work/repos/react-antd-admin/src/pages/home/model.ts';
+import ModelModel3 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/assets/model.ts';
+import ModelModel4 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/beneficiaries/model.ts';
+import ModelModel5 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/disbursements/table/model.ts';
+import ModelModel6 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/brian/summary/model.ts';
+import ModelModel7 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/detail/basic/model.ts';
+import ModelModel8 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/detail/module/model.ts';
+import ModelModel9 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/detail/table/model.ts';
+import ModelModel10 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/form/basic/model.ts';
+import ModelModel11 from 'C:/work/repos/react-antd-admin/src/pages/reliefs/form/complex/model.ts';
+import ModelModel12 from 'C:/work/repos/react-antd-admin/src/pages/user/login/model.ts';
+import ModelModel13 from 'C:/work/repos/react-antd-admin/src/pages/user/register/model.ts';
 
 let app:any = null;
 

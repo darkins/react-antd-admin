@@ -3,11 +3,11 @@ import {
   createIntl,
   IntlShape,
   MessageDescriptor,
-} from 'C:/work/Aid-Tech/te2-prototype/node_modules/react-intl';
+} from 'C:/work/repos/react-antd-admin/node_modules/react-intl';
 import { ApplyPluginsType } from 'umi';
 import { event, LANG_CHANGE_EVENT } from './locale';
 // @ts-ignore
-import warning from 'C:/work/Aid-Tech/te2-prototype/node_modules/warning/warning.js';
+import warning from 'C:/work/repos/react-antd-admin/node_modules/warning/warning.js';
 
 import { plugin } from '../core/plugin';
 
@@ -34,22 +34,22 @@ export {
   defineMessages,
   injectIntl,
   useIntl,
-} from 'C:/work/Aid-Tech/te2-prototype/node_modules/react-intl';
+} from 'C:/work/repos/react-antd-admin/node_modules/react-intl';
 
 let g_intl: IntlShape;
 
 const useLocalStorage = true;
 
 import enUS0 from 'antd/es/locale/en_US';
-import lang_enUS0 from "C:/work/Aid-Tech/te2-prototype/src/locales/en-US.ts";
-import lang_enUS1 from "C:/work/Aid-Tech/te2-prototype/src/pages/home/locales/en-US.ts";
-import lang_enUS2 from "C:/work/Aid-Tech/te2-prototype/src/pages/user/login/locales/en-US.ts";
-import lang_enUS3 from "C:/work/Aid-Tech/te2-prototype/src/pages/user/register/locales/en-US.ts";
+import lang_enUS0 from "C:/work/repos/react-antd-admin/src/locales/en-US.ts";
+import lang_enUS1 from "C:/work/repos/react-antd-admin/src/pages/home/locales/en-US.ts";
+import lang_enUS2 from "C:/work/repos/react-antd-admin/src/pages/user/login/locales/en-US.ts";
+import lang_enUS3 from "C:/work/repos/react-antd-admin/src/pages/user/register/locales/en-US.ts";
 import esES0 from 'antd/es/locale/es_ES';
-import lang_esES0 from "C:/work/Aid-Tech/te2-prototype/src/locales/es-ES.ts";
-import lang_esES1 from "C:/work/Aid-Tech/te2-prototype/src/pages/home/locales/es-ES.ts";
-import lang_esES2 from "C:/work/Aid-Tech/te2-prototype/src/pages/user/login/locales/es-ES.ts";
-import lang_esES3 from "C:/work/Aid-Tech/te2-prototype/src/pages/user/register/locales/es-ES.ts";
+import lang_esES0 from "C:/work/repos/react-antd-admin/src/locales/es-ES.ts";
+import lang_esES1 from "C:/work/repos/react-antd-admin/src/pages/home/locales/es-ES.ts";
+import lang_esES2 from "C:/work/repos/react-antd-admin/src/pages/user/login/locales/es-ES.ts";
+import lang_esES3 from "C:/work/repos/react-antd-admin/src/pages/user/register/locales/es-ES.ts";
 
 export const localeInfo: {[key: string]: any} = {
   'en-US': {

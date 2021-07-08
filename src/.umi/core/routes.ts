@@ -1,6 +1,6 @@
 // @ts-nocheck
 import React from 'react';
-import { ApplyPluginsType, dynamic } from 'C:/work/Aid-Tech/te2-prototype/node_modules/@umijs/runtime';
+import { ApplyPluginsType, dynamic } from 'C:/work/repos/react-antd-admin/node_modules/@umijs/runtime';
 import * as umiExports from './umiExports';
 import { plugin } from './plugin';
 import LoadingComponent from '@/components/PageLoading/index';

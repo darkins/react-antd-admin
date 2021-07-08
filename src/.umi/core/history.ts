@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { createHashHistory, History } from 'C:/work/Aid-Tech/te2-prototype/node_modules/@umijs/runtime';
+import { createHashHistory, History } from 'C:/work/repos/react-antd-admin/node_modules/@umijs/runtime';
 
 let options = {
   "basename": "/"
