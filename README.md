@@ -1,2 +1,2 @@
-# te2-prototype
-This is a prototype of the Transparency Engine 2.0 webapp, based off [admin-antd-react](http://admin-antd-react.liqingsong.cc/)
+# react-antd-admin
+This is an admin portal using React TS and Ant Design Pro, based off [admin-antd-react](http://admin-antd-react.liqingsong.cc/)
